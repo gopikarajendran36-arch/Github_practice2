@@ -1,0 +1,4 @@
+1..the file doesn't have .git folder,so first we add this into git
+    git init.....it initialize empty git repository
+2.If we want add more than 1 file..that means a folder
+    (git add .) use this command
