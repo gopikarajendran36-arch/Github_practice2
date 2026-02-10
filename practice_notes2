@@ -24,6 +24,8 @@
     again check,git branch -a (it shows gitbranch1)
     git checkout gitbranch1 (it shows..swtiched to a new branch)
     git branch -a (gitbranch1 and main)
+10.update newfile.txt in main also
+    
     
 
     
