@@ -25,6 +25,10 @@
     git checkout gitbranch1 (it shows..swtiched to a new branch)
     git branch -a (gitbranch1 and main)
 10.update newfile.txt in main also
+    git diff gitbranch1(it shows the diff of main & gitbarnch1)
+11.merge the main and gitbranch1
+    git merge gitbranch1
+    git push origin main
     
     
 
