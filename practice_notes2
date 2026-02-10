@@ -2,3 +2,28 @@
     git init.....it initialize empty git repository
 2.If we want add more than 1 file..that means a folder
     (git add .) use this command
+3.check it is ready to commit
+    git status
+4.Commit it into git
+    git commit -m "Created Github_practice2"
+5.push it into Git
+    git push origin main
+    it shows no origin,bcoz we doesn't create origin in Git
+6.Go to Git ,create new repository
+    created,then type VS
+    git remote add origin (link)https://github.com/gopikarajendran36-arch/Github_practice2.git
+    git branch (that shows master)master means main
+7.we want to change branch name master to main
+    git branch -M main
+    check...git branch (it shows main)
+8.now we push it into Git
+    git push origin main 
+9.Create new branch in git,click main..create a new branch 
+    first check here,git branch -a
+    then pull,git pull
+    again check,git branch -a (it shows gitbranch1)
+    git checkout gitbranch1 (it shows..swtiched to a new branch)
+    git branch -a (gitbranch1 and main)
+    
+
+    
